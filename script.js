@@ -49,4 +49,4 @@ function gotresult(result){
         rightwristx = result[0].pose.rightWrist.x;
         rightwristy = result[0].pose.rightWrist.y;
     }
-}
+}  
